@@ -27,7 +27,7 @@ before university.
 | [python101](https://github.com/howtaostolexmas/python101) | Python fundamentals with finance applications |
 
 ## 📫 Contact
-- Facebook: Yan Wat
+- Facebook: [Yan Wat](https://www.facebook.com/yan.wat.2025/)
 
 <!--
 **howtaostolexmas/howtaostolexmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
