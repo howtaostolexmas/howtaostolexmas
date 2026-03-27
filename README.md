@@ -22,8 +22,8 @@ before university.
 - [ ] Learn NumPy & Pandas for financial data
 
 ## 📫 Contact
-- Facebook: [Yan Wat](https://www.facebook.com/yan.wat.2025/)
-- Email: [yannawatnakaew3@gmail.com](mailto:yannawatnakaew3@gmail.com)
+[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yan.wat.2025/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yannawatnakaew3@gmail.com)
 
 <!--
 **howtaostolexmas/howtaostolexmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
