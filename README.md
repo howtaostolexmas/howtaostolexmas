@@ -28,6 +28,7 @@ before university.
 
 ## 📫 Contact
 - Facebook: [Yan Wat](https://www.facebook.com/yan.wat.2025/)
+- Email: [yannawatnakaew3@gmail.com](mailto:yannawatnakaew3@gmail.com)
 
 <!--
 **howtaostolexmas/howtaostolexmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
