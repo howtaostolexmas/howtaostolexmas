@@ -21,11 +21,6 @@ before university.
 - [ ] Build first backtesting system
 - [ ] Learn NumPy & Pandas for financial data
 
-## 📂 Projects
-| Project | Description |
-|---|---|
-| [python101](https://github.com/howtaostolexmas/python101) | Python fundamentals with finance applications |
-
 ## 📫 Contact
 - Facebook: [Yan Wat](https://www.facebook.com/yan.wat.2025/)
 - Email: [yannawatnakaew3@gmail.com](mailto:yannawatnakaew3@gmail.com)
