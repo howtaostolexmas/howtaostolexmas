@@ -11,7 +11,7 @@ before university.
 - Python fundamentals for quantitative finance
 - Mathematical foundations (Calculus, Linear Algebra)
 - Quantitative trading concepts
-- Reading books
+- Reading books and Focusing on soft-skills
 ## 🍰 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
