@@ -1,4 +1,4 @@
-# Hi There, I'm Tao 🫧
+# Hi There, I'm Tao 🫧🧸
 
 Aspiring Quant Trader | Statistics Student at Chulalongkorn University (not yet)
 
@@ -12,13 +12,12 @@ before university.
 - Mathematical foundations (Calculus, Linear Algebra)
 - Quantitative trading concepts
 - Reading books and Focusing on soft-skills
-## 🍰 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ## 🍓 Goals
 - [x] Complete Python fundamentals
-- [ ] Build first backtesting system
 - [x] Learn NumPy & Pandas for financial data
+- [ ] Complete cal1, stats and finacc (currently learning)
+- [ ] Build first backtesting system
 
 ## 📫 Contact
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yan.wat.2025/)
