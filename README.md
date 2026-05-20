@@ -1,6 +1,6 @@
 # Hi There, I'm Tao 🫧🧸
 
-Aspiring Quant Trader | Statistics Student at Chulalongkorn University (not yet)
+Aspiring Quant Trader | Statistics Student at Chulalongkorn University
 
 I'm passionate about the intersection of mathematics, 
 statistics, and financial markets. Currently building 
