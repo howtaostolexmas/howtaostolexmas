@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "b27b610be5b882db",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f41eb408acfd2ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2efdc4e1aef84f61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "accounting/5 charts of account.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5 charts of account"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e931bb33e60ec1de",
+    "type": "split",
+    "children": [
+      {
+        "id": "77abbb71440428be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a453670bef7e16f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2382a06bc1a8280a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d2868089747738d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "fa670864b8ce109f",
+    "type": "split",
+    "children": [
+      {
+        "id": "de11a117bbd4ed91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad7a60716f564c44",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "python.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for python"
+            }
+          },
+          {
+            "id": "ee9073dc9d76e854",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "python.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from python"
+            }
+          },
+          {
+            "id": "90d67a593311815b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "28fed0c9300264a3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "93beb8f8bc7cf6ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "python.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of python"
+            }
+          },
+          {
+            "id": "065f09b7ba2d6be2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "2efdc4e1aef84f61",
+  "lastOpenFiles": [
+    "study/accounting/accounting definition.md",
+    "study/accounting/business types.md",
+    "study/accounting/5 charts of account.md",
+    "study/accounting",
+    "study/README.md",
+    "study",
+    "accounting/business types.md",
+    "accounting/accounting definition.md",
+    "accounting/5 charts of account.md",
+    "business/03-calculus1/limit and continuity.md",
+    "accounting",
+    "non-academic",
+    "non-academic/Minecraft Realm vs SMP.md",
+    "business/01-precal/precalculus.md",
+    "business/01-precal/series&sequences.md",
+    "business/01-precal/function.md",
+    "stats & prob/00 - MOC/stats&prob.md",
+    "stats & prob/01 - Probability/Axioms of Probability.md",
+    "business/images/desmos-graph.png",
+    "business/01-precal/images/desmos-graph.png.md",
+    "business/images/c02.pdf",
+    "business/04-financial accounting",
+    "business/02-economics",
+    "business/02-economics.md",
+    "business/03-calculus1",
+    "stats & prob/01 - Probability/Random Variables.md",
+    "stats & prob/01 - Probability/Markov Chains.md",
+    "stats & prob/01 - Probability/Expectation & Properties.md",
+    "stats & prob/01 - Probability/Common Distributions.md",
+    "business/images/Pasted image 20260406181039.png",
+    "business/images",
+    "programming/Untitled.md",
+    "Excalidraw/Drawing 2026-04-06 17.34.17.excalidraw.md",
+    "Excalidraw",
+    "business/01-precal/limit.md",
+    "business/Untitled.md",
+    "business/01-precal/Drawing 2026-04-04 16.47.29.excalidraw.md",
+    "business/01-precal/Untitled.canvas",
+    "Excalidraw/Drawing 2026-04-04 15.44.34.excalidraw.md"
+  ]
+}
