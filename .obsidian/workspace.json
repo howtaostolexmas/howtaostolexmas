@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "accounting/5 charts of account.md",
+                "file": "accounting/acc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 charts of account"
+              "title": "acc"
             }
           }
         ]
@@ -199,6 +199,8 @@
   },
   "active": "2efdc4e1aef84f61",
   "lastOpenFiles": [
+    "accounting/5 charts of account.md",
+    "accounting/acc.md",
     "study/accounting/accounting definition.md",
     "study/accounting/business types.md",
     "study/accounting/5 charts of account.md",
@@ -207,7 +209,6 @@
     "study",
     "accounting/business types.md",
     "accounting/accounting definition.md",
-    "accounting/5 charts of account.md",
     "business/03-calculus1/limit and continuity.md",
     "accounting",
     "non-academic",
@@ -236,7 +237,6 @@
     "business/01-precal/limit.md",
     "business/Untitled.md",
     "business/01-precal/Drawing 2026-04-04 16.47.29.excalidraw.md",
-    "business/01-precal/Untitled.canvas",
-    "Excalidraw/Drawing 2026-04-04 15.44.34.excalidraw.md"
+    "business/01-precal/Untitled.canvas"
   ]
 }
